@@ -88,4 +88,3 @@ For more information on the functions and classes used in this system, refer to 
 - [pandas documentation](https://pandas.pydata.org/docs/)
 - [scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)
 
-That's it! You now have a README file to accompany your movie recommendation system.
